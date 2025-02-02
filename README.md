@@ -21,7 +21,7 @@ I'm an Android Developer passionate about creating apps that solve real-world pr
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocketMan2k21&show_icons=true&hide_title=true)
 
 ## 📣 How to Reach Me:
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/romah-duda/)
+- LinkedIn: [Roman Duda](https://www.linkedin.com/in/romah-duda/)
 - Email: [romahaduda@gmail.com]
 
 ## 🧑‍💻 Some of My Projects:
