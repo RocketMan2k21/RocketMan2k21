@@ -13,8 +13,8 @@ Welcome to my GitHub profile.
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocketMan2k21&show_icons=true&hide_title=true)
 
 ## 🧑‍💻 Some of My Projects:
-- [Workout Tracker](GitHub link): Track your gym workouts (Kotlin Multiplatform).
-- [Rocket Translate](GitHub link): Recognize and translate text using camera.
+- [Workout Tracker]([GitHub link](https://github.com/RocketMan2k21/FitConnect)): Track your gym workouts (Kotlin Multiplatform).
+- [Rocket Translate]([GitHub link](https://github.com/RocketMan2k21/RocketTranslateNative)): Recognize and translate text using camera.
 
 ## 💬 Fun Fact:
 - I love working in the office, reading, and drinking coffee.
