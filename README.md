@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello, I'm Roman Duda! 👋
 
-<!--
-**RocketMan2k21/RocketMan2k21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm an Android Developer passionate about creating apps that solve real-world problems. I specialize in Kotlin, Jetpack Compose, and modern Android development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools I Work With:
+- Kotlin, Java
+- Android (Jetpack Compose, Retrofit, Coroutines, Room, Hilt)
+- Firebase
+- Git & GitHub
+- CI/CD (Firebase App Distribution)
+
+## 🌱 I'm currently learning:
+- Jetpack Compose for building modern UIs
+- Advanced Kotlin features
+- Cloud services for mobile apps
+
+## 📈 GitHub Stats:
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=RocketMan2k21&show_icons=true&hide_title=true)
+
+## 📣 How to Reach Me:
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/romah-duda/)
+- Email: [romahaduda@gmail.com]
+
+## 🧑‍💻 Some of My Projects:
+- [Workout Tracker](GitHub link): Track your gym workouts (Kotlin Multiplatform).
+- [Rocket Translate](GitHub link): Recognize and translate text using camera.
+- [Funny road](GitHub link): Generate route based on user input using Google Maps API.
+
+## 💬 Fun Fact:
+- I love working in the office, reading, and drinking coffee.
+
+## ⚡ Quick Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RocketMan2k21&layout=compact&hide=html,css)
