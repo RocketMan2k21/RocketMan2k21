@@ -1,9 +1,6 @@
 # Hello, I'm Roman Duda! 👋
 
-Welcome to my GitHub profile. Here's a little about me:
-
-## 🚀 About Me
-I'm an Android Developer passionate about creating apps that solve real-world problems. I specialize in Kotlin, Jetpack Compose, and modern Android development practices.
+Welcome to my GitHub profile. 
 
 ## 🔧 Technologies & Tools I Work With:
 - Kotlin, Java
